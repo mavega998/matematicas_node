@@ -10,7 +10,7 @@ npm install
 
 Verifique si se crea la carpeta de cada operación donde se guardaran los archivos planos.
 
-- Sumar: sumas [false]
-- Restar: restas [false]
-- Multiplicar: tablas [true]
-- Dividir: division [false]
+- Sumar: sumas [ ]
+- Restar: restas [ ]
+- Multiplicar: tablas [#]
+- Dividir: division [ ]
